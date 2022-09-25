@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "text": "Planeta",
+    "img": "https://images.pexels.com/photos/39561/solar-flare-sun-eruption-energy-39561.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "answer": "Venus"
+  },
+  {
+    "id": 2,
+    "text": "Elemento",
+    "img": "https://images.pexels.com/photos/47047/gold-ingots-golden-treasure-47047.jpeg?cs=srgb&dl=pexels-pixabay-47047.jpg&fm=jpg",
+    "answer": "Oro"
+  },
+  {
+    "id": 3,
+    "text": "Lugar",
+    "img": "https://images.pexels.com/photos/2788792/pexels-photo-2788792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "answer": "Cafetería"
+  },
+  {
+    "id": 4,
+    "text": "Hora",
+    "img": "https://images.pexels.com/photos/735911/pexels-photo-735911.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "answer": "Noche"
+  },
+  {
+    "id": 5,
+    "text": "Ciudad",
+    "img": "https://images.pexels.com/photos/1486222/pexels-photo-1486222.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "answer": "New York"
+  },
+  {
+    "id": 6,
+    "text": "Flor",
+    "img": "https://images.pexels.com/photos/237382/pexels-photo-237382.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "answer": "Rosa"
+  },
+  {
+    "id": 7,
+    "text": "Superhéroe",
+    "img": "https://mx.web.img2.acsta.net/newsv7/22/05/14/15/59/0104067.jpg",
+    "answer": "Wanda"
+  },
+  {
+    "id": 8,
+    "text": "Aroma",
+    "img": "https://m.media-amazon.com/images/I/51f7M2OEpxL._SL1000_.jpg",
+    "answer": "Araina Grande Cloud"
+  },
+  {
+    "id": 9,
+    "text": "Canción",
+    "img": "https://i.scdn.co/image/ab67616d0000b27396c72b1e5b97be1de61fcf9b",
+    "answer": "Baby Otaku (Esta semana)"
+  },
+  {
+    "id": 10,
+    "text": "Animal",
+    "img": "https://images.pexels.com/photos/1366996/pexels-photo-1366996.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "answer": "Gato"
+  },
+  {
+    "id": 11,
+    "text": "Temporada",
+    "img": "https://images.pexels.com/photos/287222/pexels-photo-287222.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "answer": "Invierno"
+  },
+  {
+    "id": 12,
+    "text": "Auto",
+    "img": "https://images.pexels.com/photos/9139594/pexels-photo-9139594.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "answer": "Lamborghini"
+  },
+  {
+    "id": 13,
+    "text": "Princesa",
+    "img": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/62E7A90F983196BEFB52DD1440026F44900D7AFA2E4DFF830D66A7D928560FA6/scale?width=1200&aspectRatio=1.78&format=jpeg",
+    "answer": "Mulán"
+  },
+  {
+    "id": 14,
+    "text": "Festividad",
+    "img": "https://images.pexels.com/photos/250177/pexels-photo-250177.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "answer": "Navidad"
+  },
+  {
+    "id": 15,
+    "text": "Película",
+    "img": "https://hbomax-images.warnermediacdn.com/images/GYTmcdQ0M05IqiQEAAACn/tileburnedin?size=1280x720&partner=hbomaxcom&v=37af61283e7cdee9b393d78a39382e57&host=art-gallery.api.hbo.com&language=es-419&w=1280",
+    "answer": "Cartas a Julieta"
+  },
+  {
+    "id": 16,
+    "text": "Sentimiento",
+    "img": "https://images.pexels.com/photos/4197563/pexels-photo-4197563.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "answer": "Alegría / Amor"
+  },
+  {
+    "id": 17,
+    "text": "Frase",
+    "img": "https://images.pexels.com/photos/287240/pexels-photo-287240.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "answer": "Vamos llillo"
+  }
+]
